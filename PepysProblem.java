@@ -1,6 +1,6 @@
 public class PepysProblem {
 			public static void main(String[] args) {
-			
+			//tests liklihood of 1s in a dice roll six times, or likelihood of two 1s in a dice roll twelve times.
 			int oneOne = 0;
 			int twoOnes = 0;
 			double diceRoll = 0;

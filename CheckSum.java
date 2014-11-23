@@ -1,5 +1,6 @@
 public class CheckSum {
 		public static void main (String[] args){
+			//determines the tenth digit for a 9-digit ISBN number//
 			int partialISBN = Integer.parseInt(args[0]);
 			int workingISBN = partialISBN;
 			int sum = 0;

@@ -1,5 +1,6 @@
 public class TwoDWalk {
 				public static void main (String[] args){
+					//given a grid of size 2N * 2N, determines how many random steps a walker, initially centered in the grid, would need to take before hitting a boundary.//
 				int N = Integer.parseInt(args[0]);
 				int x = N;
 				int y = N;
